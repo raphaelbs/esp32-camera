@@ -5,7 +5,7 @@
   "description": "ESP32 compatible driver for OV2640, OV3660, OV5640 and OV7725 image sensors.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/espressif/esp32-camera"
+    "url": "https://github.com/raphaelbs/esp32-camera"
   },
   "frameworks": "espidf",
   "platforms": "*",
